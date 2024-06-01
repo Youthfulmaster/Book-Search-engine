@@ -1,0 +1,2 @@
+# Book Search Engine Starter Code
+I would like to acknowledge that I referred to Anthony Rodriguez-Ortiz assignment to better understand the concepts and identify what I was doing wrong in my own work. Their assignment served as a valuable reference and learning tool for me, and I appreciate their effort and understanding in sharing their work.
